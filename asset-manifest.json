@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Portfolio--2025/static/css/main.81a90fc4.css",
+    "main.js": "/Portfolio--2025/static/js/main.240489b9.js",
+    "static/media/output-onlinegiftools (2).gif": "/Portfolio--2025/static/media/output-onlinegiftools (2).2f347bc5f7a35ddb2e84.gif",
+    "static/media/imp image .jpeg": "/Portfolio--2025/static/media/imp image .59dfead028cab5aabbb9.jpeg",
+    "index.html": "/Portfolio--2025/index.html",
+    "main.81a90fc4.css.map": "/Portfolio--2025/static/css/main.81a90fc4.css.map",
+    "main.240489b9.js.map": "/Portfolio--2025/static/js/main.240489b9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81a90fc4.css",
+    "static/js/main.240489b9.js"
+  ]
+}
