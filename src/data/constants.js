@@ -10,7 +10,7 @@ export const Bio = {
     "I am a dedicated Full Stack Developer with expertise in web development, Java programming, and crafting efficient solutions. Proficient in creating dynamic, user-friendly applications, blending creativity with technical expertise to deliver impactful projects. Passionate about coding and innovation.",
   github: "https://github.com/Manish-Khatriya",
   resume:
-      "https://drive.google.com/file/d/1aY_3J4IpRHJDKYyWetEEvYbc-dLFzgRV/view?usp=sharing",
+      "https://drive.google.com/file/d/16n1fmt6oXg9WCaE6JXsmzoWNaUxQ4AMp/view?usp=sharing",
   linkedin: "https://linkedin.com/in/manish-khatriya-ab8763249",
   insta: "https://www.instagram.com/gurjar__manish27__/",
   facebook: "https://www.facebook.com/manish.khatriya.3",
